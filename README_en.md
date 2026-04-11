@@ -32,7 +32,7 @@ A real end-to-end example — from a reference photo to a 15-second commercial.
 
 > "Make a 15-second TVC for this silver sedan"
 
-<img src="https://github.com/user-attachments/assets/f6bd8778-9971-436a-bf8f-11e675a5e4fb" width="400" alt="Reference: silver sedan" />
+<img src="https://github.com/user-attachments/assets/0d774888-0dbb-4fb7-a861-ca3116b812b7" width="400" alt="Reference: silver sedan" />
 
 The AI enters the full creative pipeline: brief analysis → creative concept → art style → asset generation → storyboard + video script.
 

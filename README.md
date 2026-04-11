@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/df2d51af-acc2-4f34-a228-8b35ea754345
 
 > "帮我做一条银色轿跑的 15 秒 TVC"
 
-<img src="https://github.com/user-attachments/assets/f6bd8778-9971-436a-bf8f-11e675a5e4fb" width="400" alt="参考图：银色轿跑" />
+<img src="https://github.com/user-attachments/assets/0d774888-0dbb-4fb7-a861-ca3116b812b7" width="400" alt="参考图：银色轿跑" />
 
 AI 会自动进入完整创意流：需求拆解 → 创意构思 → 画风确认 → 资产生成 → 分镜 + 视频脚本。
 
