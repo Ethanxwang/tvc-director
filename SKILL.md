@@ -1,6 +1,6 @@
 ---
 name: tvc-director
-description: "TVC advertising creative director skill for Nano Banana Pro keyframe prompts and Seedance video scripts. Specialized for television commercials and brand advertising — from a product brief to production-ready keyframe prompts and cinematic video scripts. Two core capabilities: (1) Cinematic Product Breakdown — multi-phase product micro-films with precise camera choreography, component disassembly animations, feature visualization, and material macro shots; (2) Brand World Crosscut — interweaving product close-ups with in-context usage scenes (outdoor cameras with skydiving/skiing, luxury watches with racing/sailing). Covers TVC narrative models, product cinematography, brand world integration, multi-grid storyboards, and video prompts. Use this skill whenever users want to create TVC ads, product commercials, brand films, product hero videos, or any advertising visual content — even if they just say 'help me make a product video', 'I need a TVC storyboard', or '帮我做一条产品广告'."
+description: "TVC advertising creative director skill for Nano Banana Pro keyframe prompts and Seedance video scripts. Specialized for television commercials and brand advertising — from a product brief to production-ready keyframe prompts and cinematic video scripts. Three core capabilities: (1) Cinematic Product Breakdown — multi-phase product micro-films with precise camera choreography, component disassembly animations, feature visualization, and material macro shots; (2) Brand World Crosscut — interweaving product close-ups with in-context usage scenes via match cuts between phases (outdoor cameras with skydiving/skiing, luxury cars with mountain roads); (3) In-Scene Narrative — product stays in the brand world throughout (worn/held/carried), highlighted through cinematography rather than studio cutaways, ideal for wearables and lifestyle products. Covers TVC narrative models, product cinematography, brand world integration, multi-grid storyboards, and video prompts. Use this skill whenever users want to create TVC ads, product commercials, brand films, product hero videos, or any advertising visual content — even if they just say 'help me make a product video', 'I need a TVC storyboard', or '帮我做一条产品广告'."
 ---
 
 # TVC Director · TVC 广告创意导演工作台
@@ -9,27 +9,33 @@ description: "TVC advertising creative director skill for Nano Banana Pro keyfra
 
 本技能将 Agent 转化为一位 **TVC 广告创意导演**，核心职责：**把产品 brief 变成 Nano Banana Pro 关键帧提示词和 Seedance / 即梦 Multi-Phase 视频提示词**——经历创意提案、视觉定调、前期筹备、分镜与拍摄的完整流程。
 
-### 两大核心能力
+### 三大核心能力
 
 **1. 产品电影化拆解（Cinematic Product Breakdown）**
 
-不是简单的 360° 旋转——而是多 Phase 的产品微电影：
+产品是唯一主角，纯影棚，多 Phase 的产品微电影：
 
 - 零件悬浮拆解/精密组装动画
-- 功能可视化：屏幕亮起显示内容、数字跳动、传感器发光、能量流动
 - 材质微距：金属磨砂纹理、玻璃折射、碳纤维编织
 - 精确到秒的运镜编排：极慢拆解 → 爆发旋转 → 悬浮凝视 → 俯冲穿越
 - 光影叙事：低调影棚光、侧光勾勒轮廓、光随旋转流动
 
-**2. 品牌世界融合（Brand World Crosscut）**
+**2. 品牌世界穿梭（Brand World Crosscut）**
 
-产品不只活在黑底摄影棚里——它活在品牌世界中：
+品牌世界和产品世界轮流出场，用 Match Cut 衔接：
 
-- 户外相机的世界 = 跳伞、潜水、滑雪、攀岩
-- 运动鞋的世界 = 城市跑酷、马拉松、雨中街道
-- 护肤品的世界 = 晨光仪式、自然山泉、肌肤微距
-- TVC 在"产品特写"和"品牌世界使用场景"之间交叉剪辑
-- 通过匹配剪辑无缝切换：滑雪者旋转 → 产品旋转
+- 运动相机的世界 = 跳伞、潜水、滑雪、攀岩
+- 越野车的世界 = 盘山弯道、沙漠、雪地
+- 每个 Phase 完整待在一个世界里，世界切换发生在 Phase 之间
+- 通过匹配剪辑无缝衔接：滑雪者旋转 → 产品旋转
+
+**3. 场景内叙事（In-Scene Narrative）**
+
+产品始终待在品牌世界中，不跳出去做影棚特写：
+
+- 跑鞋穿在脚上、手表戴在手腕、眼镜架在鼻梁——产品就在场景里
+- 通过运镜手法（低角度追拍、慢动作、景深变化）自然突出产品
+- 片尾集中做 Hero Shot 收束
 
 ### 能力矩阵
 

@@ -70,28 +70,32 @@ Traditional AI-generated ads tend to be an endless loop of "product + black back
 - **Per-second camera design** — Every storyboard panel has explicit shot size, angle, lighting, and transition logic
 - **Progressive human-AI collaboration** — Intervene and adjust at every phase; not a black-box one-click generator
 
-## Two Core Capabilities
+## Three Core Capabilities
 
 ### 1. Cinematic Product Breakdown
 
-Not just 360° rotation — multi-phase product micro-films with:
+Product as sole protagonist, pure studio, multi-phase product micro-films:
 
 - Component disassembly/assembly animations (floating parts, exploded views, snap-back)
-- Feature visualization (screen lighting up, tracking boxes, digits ticking 00:00:00→04:00:00, sensor glow)
 - Material macro shots (brushed metal, glass refraction, carbon fiber weave)
 - Precise per-second camera choreography (ultra-slow reveal → explosive rotation → macro dive)
 - Cinematic studio lighting (low-key, side light silhouettes, light flowing with rotation)
 
 ### 2. Brand World Crosscut
 
-Products don't live on black backgrounds — they live in their brand world:
+Brand world and product world take turns, connected via match cuts:
 
-- Outdoor cameras → skydiving, diving, skiing, climbing
-- Luxury watches → racing, sailing, formal events
-- Skincare → morning rituals, natural springs, sunrise
-- Sportswear → urban parkour, marathon, rain-soaked streets
+- Action cameras → skydiving, diving, skiing, climbing
+- Off-road vehicles → mountain roads, desert, snow
+- Each Phase stays in one world; world switches happen between Phases
 
-TVC crosscuts between "product close-ups" and "brand world usage scenes", connected via match cuts (skier spinning → product spinning).
+### 3. In-Scene Narrative
+
+Product stays in the brand world throughout — no studio cutaways:
+
+- Running shoes on feet, watches on wrists, glasses on faces
+- Highlighted through cinematography (low-angle tracking, slow motion, depth-of-field shifts)
+- Hero Shot concentrated at the end
 
 ## Installation
 
@@ -141,7 +145,7 @@ git clone https://github.com/Ethanxwang/tvc-director.git ~/.claude/skills/tvc-di
 | A | Problem-Solution | Pain point → product saves the day |
 | B | Cinematic Product Breakdown | Multi-phase micro-film revealing USPs |
 | C | Brand World Crosscut | Scene ↔ product close-up crosscutting |
-| D | Lifestyle Integration | Product woven into aspirational lifestyle |
+| D | In-Scene Narrative | Product stays in scene, highlighted by cinematography |
 | E | Emotional Anchor | Emotional story, product as carrier |
 | F | Montage Reveal | Visual spectacle → product reveal |
 | G | Before/After | Before/after strong contrast |
