@@ -4,7 +4,7 @@
 
 From product brief to cinematic TVC keyframes — your AI advertising creative director.
 
-A skill that turns your AI agent into a **TVC Advertising Creative Director**, handling the complete creative pipeline for television commercials and brand advertising: from a product brief to production-ready multi-grid storyboard image prompts and Multi-Phase video prompts.
+A skill that turns your AI agent into a **TVC Advertising Creative Director**, handling the complete creative pipeline for television commercials and brand advertising: from a product brief to production-ready multi-grid storyboard image prompts and video prompts.
 
 ## How It Works
 
@@ -22,7 +22,7 @@ The workflow mirrors real TVC advertising production stages:
   Phase 7: Delivery              ← Final Delivery
         ↓
   Copy-paste-ready multi-grid storyboard image prompts,
-  Multi-Phase video prompts & creative docs
+  video prompts & creative docs
 ```
 
 ## Key Features
